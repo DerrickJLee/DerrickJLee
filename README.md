@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DerrickJLee
+- 👋 Hi, I’m Derrick Lee
 - 👀 I’m interested in system automation and optimization
 - 🌱 I’m currently learning industrial engineering
 - 💞️ I’m looking to collaborate on ...
